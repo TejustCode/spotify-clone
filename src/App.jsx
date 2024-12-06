@@ -7,6 +7,7 @@ import { PlayerContext } from './context/PlayerContext';
 function App() {
 
   const{audioRef,track} = useContext(PlayerContext)
+  
  
   return (
     <div className="h-screen bg-black">
