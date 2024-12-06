@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+.seekBar {
+    transition: width 0.1s linear;
+}
