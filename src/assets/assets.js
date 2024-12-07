@@ -119,7 +119,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "On & On",
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -127,7 +127,7 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Faded",
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -135,7 +135,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Song Three",
+        name: "On my way",
         image: img3,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -143,7 +143,7 @@ export const songsData = [
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Lover",
         image: img4,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -151,7 +151,7 @@ export const songsData = [
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Intro",
         image: img5,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -159,7 +159,7 @@ export const songsData = [
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Lost sky Fearless",
         image: img14    ,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -167,7 +167,7 @@ export const songsData = [
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "JPB high",
         image: img7,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -175,7 +175,7 @@ export const songsData = [
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Tobu roots",
         image: img12,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
