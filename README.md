@@ -1,8 +1,6 @@
-# React + Vite
+# Spotify-Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Spotify-clone project is a music streaming application that mimics the core features of Spotify, allowing users to browse, play, and manage music tracks. 
+It is designed with a modern UI and incorporates essential functionalities for an immersive user experience.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TechStack : React JS , Tailwind CSS
